@@ -1,0 +1,28 @@
+p {
+    text-align: center;
+    color: Black;
+    font-size: 25px;
+    font-family: Times New Roman;
+  }
+  ul.ba {
+      list-style-type: none;
+  }
+  h1 {
+  text-align: center;
+  }
+  ul {
+    text-align: center;
+    color: Black;
+    font-size: 25px;
+    font-family: Times New Roman;
+     list-style-type: none;
+  }
+  h2 {
+  text-align: center;
+  }
+  header {
+  text-align: center;
+    color: Black;
+    font-size: 25px;
+    font-family: Times New Roman;
+  }
